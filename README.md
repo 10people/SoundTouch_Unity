@@ -1,2 +1,4 @@
 # SoundTouch_Unity
-SoundTouch for Unity
+
+SoundTouch C# version for Unity
+Read SoundTouch.cs for API
